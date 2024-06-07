@@ -1,6 +1,6 @@
 # IMPLICIT12solver - A Fast Atmospheric Chemistry Solver
 
-This solver gives a 5X speed-up for the ICON-ART climate model. It can also be used in any climate model that uses the KineticPreProcessor KPP (https://github.com/KineticPreProcessor/KPP).
+This solver gives a 5X speed-up for the ICON-ART climate model. It can also be used in any climate model that uses the KineticPreProcessor KPP software package (https://github.com/KineticPreProcessor/KPP).
 
 This solver is inspired by the IMEX solver. However, an explicit solver is not possible in the case of stiff atmospheric chemistry problems.
 This solver consists of:
