@@ -11,5 +11,7 @@ This solver consists of:
 
 ### User Guide:
 This repository only contains two files. Please copy both files, "implicit12.f90" and "implicit12.def," into the directory "kpp/int/", whichever version of KPP you are using.
+
 This can also be used with the CAABA/MECCA box model (https://gitlab.com/RolfSander/caaba-mecca). 
+
 With the MECCA chemistry module, make sure to update the ".bat" file.
